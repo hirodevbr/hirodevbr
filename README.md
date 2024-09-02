@@ -1,5 +1,3 @@
-## 👋 Hi, I’m Samuel de Jesus;
- 
 <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=hirodevbr&show_icons=false&hide=contribs,prs&layout=compact&cache_seconds=86400&theme=transparent"> <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirodevbr&layout=compact&theme=transparent">
 
 
