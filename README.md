@@ -54,7 +54,7 @@ Sou um programador inexperiente, mas com muita vontade de aprender e me desenvol
  
 <summary><strong> Quanto tempo estudo desenvolvimento?</strong></summary>
  <br>
-Comecei a estudar desenvolvimento quando entrei na faculdade, há 1 ano e 3 meses.
+Comecei a estudar desenvolvimento há 1 ano e 3 meses.
 </details>
 
 <details>
